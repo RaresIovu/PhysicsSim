@@ -1,0 +1,14 @@
+*.exe
+*.out
+*.dll
+*.so
+*.dylib
+
+/build/
+/bin/
+/obj/
+
+.vscode/
+.idea/
+
+*.log
